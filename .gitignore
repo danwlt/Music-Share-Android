@@ -1,0 +1,29 @@
+# Gradle specific
+.gradle/
+build/
+local.properties
+
+# IntelliJ IDEA / Android Studio specific
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# Compiled Kotlin
+*.class
+
+# Compiled Java
+*.jar
+*.war
+
+# Log files
+*.log
+
+# OS-specific files/directories
+.DS_Store
+.idea/
+.gradle/
+build/
+bin/
+out/
